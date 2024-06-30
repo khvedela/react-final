@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6ecf0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .p-button {
+    margin-top: 10px;
+  }
+  
+  .p-invalid {
+    border-color: #f44336 !important;
+  }
+  
+  .p-error {
+    color: #f44336;
+  }
+  
+  .p-dialog .p-dialog-header {
+    background-color: #f5f5f5;
+  }
+  
+  .p-dialog .p-dialog-content {
+    background-color: #fff;
+  }
+  
+  .p-dialog .p-dialog-footer {
+    background-color: #f5f5f5;
+  }
